@@ -18,7 +18,7 @@ test:
   encoding: unicode
   database: treebook_test
   pool: 5
-  host: localhost
+  host: localho
 
 production:
   adapter: postgresql
