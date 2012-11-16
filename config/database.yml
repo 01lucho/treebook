@@ -20,4 +20,4 @@ production:
   encoding: unicode
   database: treebook_production
   pool: 5
-  host: localho
+  host: localhost
